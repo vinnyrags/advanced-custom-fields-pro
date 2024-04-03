@@ -1,0 +1,7 @@
+{
+    "name": "devanime/advanced-custom-fields-pro",
+    "description": "Copy of ACF Pro so we can use it in our composer architecture.",
+    "type": "wordpress-plugin",
+    "license": "GPL-3.0",
+    "require": {}
+}
